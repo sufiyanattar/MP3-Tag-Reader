@@ -1,10 +1,8 @@
 /*
-NAME:
-DATE:
-DESCRIPTION:
-SAMPLE INPUT:
-SAMPLE OUTPUT:
- */
+NAME: SUFIYAN ATTAR
+DATE: 20/04/2024
+*/
+
 
 #include "mp3.h"
 
