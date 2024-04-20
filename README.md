@@ -52,18 +52,23 @@ Here is the list of requirements that your MP3 tag reader should be in a positio
 # Screenshots
 
 Fig1: Usage
+
 ![mtr_1](https://github.com/sufiyanattar/MP3-Tag-Reader/assets/109298044/d96cdcb0-fb3c-46f9-b7b4-1048a9a45984)
 
 Fig2: Help
+
 ![mtr_2](https://github.com/sufiyanattar/MP3-Tag-Reader/assets/109298044/282702b3-ed9e-42fb-8dbf-d694976958e0)
 
 Fig3: Print MP3 tag
+
 ![mtr_3](https://github.com/sufiyanattar/MP3-Tag-Reader/assets/109298044/2487f99a-b806-4fd4-aa5e-6e3eced1e1dc)
 
 Fig4: Edit Title Tag
+
 ![mtr_4](https://github.com/sufiyanattar/MP3-Tag-Reader/assets/109298044/7a365c5e-8598-4160-ac1a-754547bee269)
 
 
 Fig5: Edit Artist Tag
+
 ![mtr_5](https://github.com/sufiyanattar/MP3-Tag-Reader/assets/109298044/61b4fd6f-3b7c-496b-9aa5-b918dbffb3c3)
 
